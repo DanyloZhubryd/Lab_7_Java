@@ -6,6 +6,7 @@
   - CPU speed (in HHz)
   - amount of RAM
   - name of manufacturer
+ 
  Add additional 5 private fields that best describe this class (in addition to the fields listed in the table)
 
  Methods for accessing these fields (for example for the field name - getName () and setName ())
