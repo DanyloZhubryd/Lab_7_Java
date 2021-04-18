@@ -27,7 +27,7 @@
  - resetValues - changes the values of all fields to those passed in the parameters
 
  The developed code must be poured into the hit repository! The repository should have a README and .gitignore file.
-
+ 
  In the main () method, define 3 objects of type from the task (due to different constructors) and output information about them using the toString () method and output information using the printStaticField () and printField () methods
 
 
